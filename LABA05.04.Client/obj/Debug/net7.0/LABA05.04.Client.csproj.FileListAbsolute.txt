@@ -1,0 +1,15 @@
+C:\Users\kristik\OneDrive\ynik\gittt\LABA05.04.Client\bin\Debug\net7.0\LABA05.04.Client.exe
+C:\Users\kristik\OneDrive\ynik\gittt\LABA05.04.Client\bin\Debug\net7.0\LABA05.04.Client.deps.json
+C:\Users\kristik\OneDrive\ynik\gittt\LABA05.04.Client\bin\Debug\net7.0\LABA05.04.Client.runtimeconfig.json
+C:\Users\kristik\OneDrive\ynik\gittt\LABA05.04.Client\bin\Debug\net7.0\LABA05.04.Client.dll
+C:\Users\kristik\OneDrive\ynik\gittt\LABA05.04.Client\bin\Debug\net7.0\LABA05.04.Client.pdb
+C:\Users\kristik\OneDrive\ynik\gittt\LABA05.04.Client\obj\Debug\net7.0\LABA05.04.Client.csproj.AssemblyReference.cache
+C:\Users\kristik\OneDrive\ynik\gittt\LABA05.04.Client\obj\Debug\net7.0\LABA05.04.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kristik\OneDrive\ynik\gittt\LABA05.04.Client\obj\Debug\net7.0\LABA05.04.Client.AssemblyInfoInputs.cache
+C:\Users\kristik\OneDrive\ynik\gittt\LABA05.04.Client\obj\Debug\net7.0\LABA05.04.Client.AssemblyInfo.cs
+C:\Users\kristik\OneDrive\ynik\gittt\LABA05.04.Client\obj\Debug\net7.0\LABA05.04.Client.csproj.CoreCompileInputs.cache
+C:\Users\kristik\OneDrive\ynik\gittt\LABA05.04.Client\obj\Debug\net7.0\LABA05.04.Client.dll
+C:\Users\kristik\OneDrive\ynik\gittt\LABA05.04.Client\obj\Debug\net7.0\refint\LABA05.04.Client.dll
+C:\Users\kristik\OneDrive\ynik\gittt\LABA05.04.Client\obj\Debug\net7.0\LABA05.04.Client.pdb
+C:\Users\kristik\OneDrive\ynik\gittt\LABA05.04.Client\obj\Debug\net7.0\LABA05.04.Client.genruntimeconfig.cache
+C:\Users\kristik\OneDrive\ynik\gittt\LABA05.04.Client\obj\Debug\net7.0\ref\LABA05.04.Client.dll
